@@ -32,4 +32,4 @@ oeuvres pour faire de ce site ce que je voudrai qu'il soit.
 
 [jekyll]: http://jekyllrb.com
 [blog]: half-shell.github.io
-[github]: https://github.com/half-shell
+[half-shell.github]: https://github.com/half-shell
