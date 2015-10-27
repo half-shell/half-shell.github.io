@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mais où êtes vous tombés?!"
 date:   2015-10-27 13:49:00
-categories: jekyll update
+categories: miscellaneous 
 ---
 
 Bonjour et bienvenu à tous! Non, vous n'êtes pas fous, vous êtes bien tombés sur
