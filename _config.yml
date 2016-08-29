@@ -3,9 +3,7 @@ title: Half-shell's blog
 email: michel.maubert.pro@gmail.com
 description: "Ceci est le site de half-shell, un jeune développeur. Vous pourrez
 y retrouver des articles sur Archlinux (et linux en général), des astuces de
-développement, des outils, et d'autres. Vous pourrez également retrouver son CV
-et des moyens de le contacter dans les rubriques éponymes. En espérant que vous
-y apprendrez quelque chose d'utile, bonne lecture!"
+développement, des outils, et d'autres."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://half-shell.github.io" # the base hostname & protocol for your site
 github_username:  half-shell
