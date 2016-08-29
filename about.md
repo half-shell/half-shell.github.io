@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Ce site est hebergé par [Github](https://pages.github.com/) et généré à l'aide de
+[Jekyll](https://jekyllrb.com/).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Le thème présent est [celui par défaut](https://github.com/jglovier/jekyll-new), contenant quelques
+modifications. Vous pouvez retrouver le code contenant les modifications sur mon
+[github](https://github.com/half-shell).
